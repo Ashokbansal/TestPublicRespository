@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-12T17:29:29 IST" name="Surefire suite" finished-at="2024-10-12T17:29:34 IST" duration-ms="5060">
+    <groups>
+    </groups>
+    <test started-at="2024-10-12T17:29:29 IST" name="Surefire test" finished-at="2024-10-12T17:29:34 IST" duration-ms="5060">
+      <class name="Test01_Get">
+        <test-method signature="test_01()[pri:0, instance:Test01_Get@4b5a5ed1]" started-at="2024-10-12T17:29:29 IST" name="test_01" finished-at="2024-10-12T17:29:31 IST" duration-ms="1628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method signature="test_02_Get()[pri:0, instance:Test01_Get@4b5a5ed1]" started-at="2024-10-12T17:29:31 IST" name="test_02_Get" finished-at="2024-10-12T17:29:32 IST" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02_Get -->
+      </class> <!-- Test01_Get -->
+      <class name="Tests_Patch">
+        <test-method signature="test_01_Patch()[pri:0, instance:Tests_Patch@5cee5251]" started-at="2024-10-12T17:29:32 IST" name="test_01_Patch" finished-at="2024-10-12T17:29:33 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_Patch -->
+      </class> <!-- Tests_Patch -->
+      <class name="Tests_GET">
+        <test-method signature="test_1()[pri:0, instance:Tests_GET@7adda9cc]" started-at="2024-10-12T17:29:32 IST" name="test_1" finished-at="2024-10-12T17:29:32 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+      </class> <!-- Tests_GET -->
+      <class name="Tests_Put">
+        <test-method signature="test_01_Put()[pri:0, instance:Tests_Put@5c909414]" started-at="2024-10-12T17:29:34 IST" name="test_01_Put" finished-at="2024-10-12T17:29:34 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_Put -->
+      </class> <!-- Tests_Put -->
+      <class name="Tests_POST">
+        <test-method signature="test_01_Post()[pri:0, instance:Tests_POST@433d61fb]" started-at="2024-10-12T17:29:33 IST" name="test_01_Post" finished-at="2024-10-12T17:29:34 IST" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_Post -->
+      </class> <!-- Tests_POST -->
+      <class name="Tests_Delete">
+        <test-method signature="test_01_Delete()[pri:0, instance:Tests_Delete@7c0c77c7]" started-at="2024-10-12T17:29:32 IST" name="test_01_Delete" finished-at="2024-10-12T17:29:32 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_Delete -->
+      </class> <!-- Tests_Delete -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
